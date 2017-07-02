@@ -1,0 +1,5 @@
+{
+	"isMock": true,
+	"port": 3030,
+	"httpProxy": "www"
+}
